@@ -2,9 +2,10 @@
 Implemented new annotations for Tasty to classify and categorize the genres of recipe. 
 
 ## Team:
-Echo Zhang (piggyeq). 
+Echo Zhang (piggyeq).  
 Qomaruliati Setiawati (@ruli123).  
-Kishan Maladkar Vishwanath (@kmv8694).  
+Kishan Maladkar Vishwanath (@kmv8694).   
+Xiangwen Zheng
 
 ## Data Scource
 
